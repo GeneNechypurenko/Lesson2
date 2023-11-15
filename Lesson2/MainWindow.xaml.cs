@@ -12,19 +12,7 @@ namespace Lesson2
         {
             InitializeComponent();
 
-            string[] color = new string[]
-            {
-        "Navy",
-        "Blue",
-        "Aqua",
-        "Teal",
-        "Olive",
-        "Green",
-        "Lime",
-        "Yellow",
-        "Orange",
-        "Red"
-            };
+            string[] color = new string[] { "Navy", "Blue", "Aqua", "Teal", "Olive", "Green", "Lime", "Yellow", "Orange", "Red" };
 
             int i = 0;
 
